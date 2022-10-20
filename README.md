@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BBGrimmett2 or Brian Grimmett
-- 🌱 I’m currently learning DevOps practice, containers, automation, and linux as a whole
+- 🌱 I’m currently learning DevOps practices, containers, automation, and linux as a whole
 - 👀 I'm alwasy dabbling in physics, engineering, mathematics, and cybersecurity
 - 📫 How to reach me bbgrimmett2@gmail.com
 
